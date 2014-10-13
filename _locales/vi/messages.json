@@ -1,0 +1,14 @@
+{
+   "defaultTitle": {
+      "description": "Default title to display",
+      "message": "Freepik downloader"
+   },
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Download file with preview image from freepik.com quicker."
+   },
+   "extName": {
+      "description": "Extension's name.",
+      "message": "Freepik downloader"
+   }
+}
